@@ -1,2 +1,5 @@
+# Thư mục chứa các gói Node.js không cần thiết cho dự án
 node_modules/
+
+# Tệp chứa biến môi trường nhạy cảm
 .env
