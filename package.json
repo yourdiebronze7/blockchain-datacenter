@@ -8,5 +8,6 @@
   "dependencies": {
     "express": "^4.17.1",  // Express framework for web applications
     "mongoose": "^5.12.3"  // Mongoose for MongoDB object modeling
-  }
+  },
+  "readme": "This is the blockchain datacenter project."  // Project documentation
 }
